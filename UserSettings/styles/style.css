@@ -1,0 +1,19 @@
+/* 
+CORES
+    #f5ac2a //amarelo
+    #f4f7fc //branco
+    #323232 //cinza-escuro
+    #424242 //cinza-claro
+*/
+
+.user-settings {
+    background-color: #424242;
+    width: 100%;
+    min-height: 100%;
+    padding: 20px;
+    display: flex;
+    flex-direction: row;
+    justify-content: flex-start;
+    align-items: center;
+    gap: 20px;
+}
